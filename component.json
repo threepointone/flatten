@@ -1,0 +1,16 @@
+{
+  "name": "flatten",
+  "repo": "threepointone/flatten",
+  "description": "underscore's flatten",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yields/isarray": "*",
+    "manuelstofer/each": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
